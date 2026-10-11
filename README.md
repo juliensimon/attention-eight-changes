@@ -4,7 +4,6 @@ Slides and animations from the video "Your LLM no longer reads every token: eigh
 
 The newest open models from Alibaba, Moonshot, DeepSeek and Z.AI have replaced full attention in most or all of their layers. The video walks through the eight designs that got us here, who tested them against full attention, and a cache and speed measurement of three ~30B models on a Mac.
 
-- Video: <!-- YouTube link -->
 - Article: [Eight Changes to Transformer Attention, and What Each Costs](https://www.airealist.ai/p/eight-changes-to-transformer-attention), The AI Realist, October 2026
 
 ## Contents
